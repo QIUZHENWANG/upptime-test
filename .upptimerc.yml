@@ -4,14 +4,14 @@ repo: upptime-test # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Baidu
     url: https://www.baidu.com
+  - name: PeopleNews
+    url: http://www.people.com.cn/
+  - name: bilibili
+    url: https://www.bilibili.com
+  - name: Google
+    url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
 
