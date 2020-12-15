@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://qiuzhenwang.github.io/upptime-test/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+[**Visit our status website →**](https://qiuzhenwang.github.io/upptime-test/)
 
 ## 📄 License
 
