@@ -12,6 +12,8 @@ sites:
     url: https://www.bilibili.com
   - name: Google
     url: https://www.google.com
+  - name: blog
+    url: http://qiuzhenwang.top 
   - name: Secret Site
     url: $SECRET_SITE
 
